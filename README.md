@@ -8,5 +8,5 @@ Get the datasets from [here](https://github.com/thenomaniqbal/100-Days-Of-Machin
 Check out the code from [here](https://github.com/thenomaniqbal/100-Days-Of-MachineLearning-Codes/blob/master/Code/Day%201_Data%20PreProcessing.md).
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img src="https://github.com/thenomaniqbal/100-Days-Of-MachineLearning/blob/master/Day-01/Day1.jpg">
 </p>
